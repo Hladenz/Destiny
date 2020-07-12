@@ -1,0 +1,17 @@
+name: DestinyEnchants
+version: ${project.version}
+main: xyz.crystallizedprison.destinyenchants.DestinyEnchants
+api-version: 1.13
+authors: [Hladenz]
+description: Enchants plugin for CRP
+website: crystallizedprison.xyz
+depend: [WorldGuard,AutoSell]
+commands:
+  destiny:
+    description: Main command for enchant plugin
+    aliases:
+      - dt
+  etokens:
+    description: Main command for enchant plugin
+    aliases:
+      - et

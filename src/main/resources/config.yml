@@ -1,0 +1,21 @@
+EnchantSettings:
+  Explosive:
+    radius: 4
+    chance: 2
+    max: 10
+    cost: 500
+    blacklisted-worlds:
+      -plots
+  Fortune:
+    cost: 50
+    max: 500
+  Efficiency:
+    cost: 10
+    max: 200
+  Haste:
+    cost: 200
+    max: 5
+  Speed:
+    cost: 200
+    max: 3
+
